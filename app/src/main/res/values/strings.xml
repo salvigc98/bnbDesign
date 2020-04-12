@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">airbnbDesign</string>
+    <string name="mostrar_mas"><u>Mostrar más</u></string>
+    <string name="carbono"><strike>Detector de monóxido de carbono</strike></string>
+    <string name="humo"><strike>Detector de humo</strike></string>
+</resources>
+
